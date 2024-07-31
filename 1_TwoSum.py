@@ -1,3 +1,6 @@
+# difficulty: EASY
+# Topics: Array, Hash table
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         index = 0
